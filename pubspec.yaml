@@ -7,8 +7,12 @@ environment:
   sdk: ^3.5.2
 
 dependencies:
+  better_player: ^0.0.84
+  cached_network_image: ^3.4.1
   flutter:
     sdk: flutter
+  get: ^4.6.6
+  supabase_flutter: ^2.8.3
 
 dev_dependencies:
   flutter_test:
